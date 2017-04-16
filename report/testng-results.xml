@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40" started-at="2017-03-10T23:33:49Z" finished-at="2017-03-10T23:33:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40" started-at="2017-03-10T23:33:49Z" finished-at="2017-03-10T23:33:50Z">
+      <class name="demoANT.MethodFour">
+        <test-method status="PASS" signature="TestMethodFour()[pri:0, instance:demoANT.MethodFour@71e7a66b]" name="TestMethodFour" duration-ms="1" started-at="2017-03-11T05:03:50Z" finished-at="2017-03-11T05:03:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethodFour -->
+      </class> <!-- demoANT.MethodFour -->
+      <class name="demoANT.MethodTwo">
+        <test-method status="PASS" signature="TestMethodTwo()[pri:0, instance:demoANT.MethodTwo@1ff8b8f]" name="TestMethodTwo" duration-ms="17" started-at="2017-03-11T05:03:49Z" finished-at="2017-03-11T05:03:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethodTwo -->
+      </class> <!-- demoANT.MethodTwo -->
+      <class name="demoANT.MethodThree">
+        <test-method status="PASS" signature="TestMethodThree()[pri:0, instance:demoANT.MethodThree@c39f790]" name="TestMethodThree" duration-ms="0" started-at="2017-03-11T05:03:50Z" finished-at="2017-03-11T05:03:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethodThree -->
+      </class> <!-- demoANT.MethodThree -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
